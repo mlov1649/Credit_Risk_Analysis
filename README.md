@@ -7,14 +7,14 @@ The code herein addresses this issue using a multiple of sampling techniques.
 The machine learning models used are listed below. 
 
 ### In credit_risk_resampling file
--Oversampling using RandomOverSampler
--Oversampling using SMOTE
--Undersampling using ClusterCentroids
--Comnination over and under sampling using SMOTEENN
+- Oversampling using RandomOverSampler
+- Oversampling using SMOTE
+- Undersampling using ClusterCentroids
+- Comnination over and under sampling using SMOTEENN
 
 ### In credit_risk ensemble file
--RandomForest Classifier
--EasyEnsemble AdaBoost Classifier
+- RandomForest Classifier
+- EasyEnsemble AdaBoost Classifier
 
 
 
